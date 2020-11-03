@@ -129,7 +129,8 @@ ul{
 
 @media only screen and (max-width:600px) {
   .container > img {
-    margin-top: 30px;
+    margin-top: 20px;
     height: 45%;
+    width: 50%;
   }
 }
